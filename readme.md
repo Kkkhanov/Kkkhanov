@@ -43,4 +43,7 @@
 <a href="https://github.com/Kkkhanov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://t.me/kkkhanovvv" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/87/87413.png" width="20px" />
+ </a>
 </div>  
