@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://алёнаборова.рф/wp-content/uploads/2018/04/Programmist.jpg" align="center" style="width: 100%" />
+<img src="[https://алёнаборова.рф/wp-content/uploads/2018/04/Programmist.jpg](https://blog.100ct.by/wp-content/uploads/2023/02/1-7.webp)" align="center" style="width: 100%" />
 </div>  
   
 
