@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://phonoteka.org/uploads/posts/2021-03/1616643522_27-p-matritsa-fon-29.jpg" align="center" style="width: 100vw" />
-</div>  
+ 
   
 
 ### <div align="center">Привет, я Никита! начинающий frontEnd-разработчик 👨‍💻 </div>  
